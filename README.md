@@ -26,4 +26,4 @@ DSA • System Design • Advanced React
 
 ### 🤝 Connect
 
-[LinkedIn] • [Email]
+krupalchaudhari500@gmail.com
