@@ -2,68 +2,28 @@
 
 ### 🚀 Aspiring Full-Stack Developer
 
-I build full-stack web applications and enjoy solving problems
-through code.
+Building full-stack applications and learning through real-world projects.
 
----
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+**Frontend:** React • JavaScript • HTML • CSS • Tailwind CSS
+**Backend:** Node.js • Express.js • REST API • JWT
+**Database:** MongoDB • SQL
+**Languages:** Java • JavaScript
+**Tools:** Git • GitHub • Postman
 
-### Frontend
-- React
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
+### 🚀 Featured Projects
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+📚 **Library Management System** — React + Node.js + Express + MongoDB
 
-### Database
-- MongoDB
-- SQL
+🚗 **Car Dealership Inventory System** — Full-stack inventory management
 
-### Languages
-- Java
-- JavaScript
+📖 **CTC Library** — Library management application
 
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
+### 📚 Currently Learning
 
----
+DSA • System Design • Advanced React
 
-## 🚀 Featured Projects
+### 🤝 Connect
 
-### 📚 Library Management System
-Full-stack LMS with authentication, book management,
-issue/return workflow and admin functionality.
-
-**Tech:** React • Node.js • Express • MongoDB
-
-### 🚗 Car Dealership Inventory System
-Full-stack vehicle inventory management system with
-authentication and inventory operations.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- System Design
-- Advanced React
-- Backend Development
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn
-- Email
+[LinkedIn] • [Email]
